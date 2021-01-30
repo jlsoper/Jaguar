@@ -1,0 +1,25 @@
+# /etc/apt/sources.list.d/lxle-ubuntu-stable-bionic.list:deb http://ppa.launchpad.net/lxle/stable/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/apandada1-ubuntu-brightness-controller-bionic.list:deb http://ppa.launchpad.net/apandada1/brightness-controller/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/anonbeat-ubuntu-guayadeque-bionic.list:deb http://ppa.launchpad.net/anonbeat/guayadeque/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/maarten-baert-ubuntu-simplescreenrecorder-bionic.list:deb http://ppa.launchpad.net/maarten-baert/simplescreenrecorder/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/webupd8team-ubuntu-y-ppa-manager-bionic.list:deb http://ppa.launchpad.net/webupd8team/y-ppa-manager/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/bookworm-team-ubuntu-bookworm-bionic.list:deb http://ppa.launchpad.net/bookworm-team/bookworm/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/philip_scott-ubuntu-spice-up-daily-bionic.list:deb http://ppa.launchpad.net/philip.scott/spice-up-daily/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/kelleyk-ubuntu-compton-bionic.list:deb http://ppa.launchpad.net/kelleyk/compton/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/linrunner-ubuntu-tlp-bionic.list:deb http://ppa.launchpad.net/linrunner/tlp/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/utappia-ubuntu-stable-bionic.list:deb http://ppa.launchpad.net/utappia/stable/ubuntu/ bionic main 
+# /etc/apt/sources.list.d/libreoffice-ubuntu-ppa-bionic.list:deb http://ppa.launchpad.net/libreoffice/ppa/ubuntu/ bionic main  
+
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic main restricted 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic-updates main restricted 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic universe 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic-updates universe 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic multiverse 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic-updates multiverse 
+/etc/apt/sources.list:deb http://us.archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse 
+/etc/apt/sources.list:deb http://archive.canonical.com/ubuntu/ bionic partner 
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu/ bionic-security main restricted 
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu/ bionic-security universe 
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu/ bionic-security multiverse 
+
+# /etc/apt/sources.list:deb http://downloads.sourceforge.net/project/ubuntuzilla/mozilla/apt/ all main 
