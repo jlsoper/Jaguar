@@ -1,0 +1,4 @@
+@lxpanel --profile LXDE
+@pcmanfm --desktop --profile LXDE
+notifylist
+compton-daemon
