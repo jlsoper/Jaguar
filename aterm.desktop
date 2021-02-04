@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Aterm
+Exec=urxvt -g 148x42
+Icon=/usr/share/icons/LXLEmentary/apps/32/utilities-terminal.svg
+Type=Application
+Categories=Utility;TerminalEmulator;
+StartupNotify=true
+Actions=New
+
+[Desktop Action New]
+Name=New Aterm
+Exec=urxvt -g 148x42
